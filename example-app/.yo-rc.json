@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.example",
+      "nativeLanguage": "vi"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "example",
+    "packageName": "com.example",
+    "packageFolder": "com/example",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGViOTE4ZmE5ZGFjNTk2MWQyNzY3M2RlODk1MjQzYTFiYmIxZjc1OTEwNDI5Mzk5NjMyOGRkZjI2ZjdmNWFkNDBmOGJjODBlYThjODliNDY2NzQ0Mzc5NGNlZThmNTQ4YzEwOGY1MjM1NzZiMGU2NTViZjJiYmQ4ZTg5MDE0YmM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1610783197406,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "vi",
+    "languages": ["vi", "en"],
+    "blueprints": []
+  }
+}
